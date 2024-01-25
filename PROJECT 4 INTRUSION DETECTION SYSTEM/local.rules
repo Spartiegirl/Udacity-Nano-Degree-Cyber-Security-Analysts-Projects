@@ -1,0 +1,1 @@
+alert tcp any any -> any any (msg:"Alert Malicious Attack";sid:61000001;)
